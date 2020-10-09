@@ -23,10 +23,9 @@ navigation:                  # show navigation links in the header
   - about.md
 
 
-
-icons:                       # show icons in the header, for all possible icons see http://fontawesome.io/icons/
-  # envelope: "mailto:niklasbuschmann@users.noreply.github.com"
-github: "https://github.com/DS4PS/nhood-change-project/edit/master/"
+# show icons in the header, for all possible icons see http://fontawesome.io/icons/
+icons:                       
+  github: "https://github.com/DS4PS/nhood-change-project/edit/master/"
   
   
   
