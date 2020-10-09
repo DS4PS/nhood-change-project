@@ -16,11 +16,11 @@ minimal_theme: false         # radically minimalistic theme
 
 navigation:                  # show navigation links in the header	
   - index.md
-  - data.md  
-  - health-data.md
-  - lit-review.md
-  - resources.md
-  - about.md
+  # - data.md  
+  # - health-data.md
+  # - lit-review.md
+  # - resources.md
+  # - about.md
 
 
 # show icons in the header, for all possible icons see http://fontawesome.io/icons/
