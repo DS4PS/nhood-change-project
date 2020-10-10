@@ -17,10 +17,11 @@ minimal_theme: false         # radically minimalistic theme
 navigation:                  # show navigation links in the header	
   - index.md
   - fed-programs.md
+  - outcomes.md
+  - lit-review.md 
   - data.md  
   - models.md
-  # - resources.md
-  # - about.md
+  - about.md
 
 
 # show icons in the header, for all possible icons see http://fontawesome.io/icons/
