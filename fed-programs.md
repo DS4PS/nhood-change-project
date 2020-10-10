@@ -25,7 +25,7 @@ Watch case studies on the impact that New Market Tax Credits have achieved in th
 
 [NMTC Case Studies](https://www.cohnreznick.com/nmtc-map)
 
-**Are Tax Credits Effective Economic Development Mechanisms?** 
+## Are Tax Credits Effective Economic Development Mechanisms?
 
 There are myriad possible mechanisms for catalyzing economic development such as New York City's 
 
@@ -37,7 +37,7 @@ One convincing argument is that if cities tried to directly invest in distressed
 
 The mystery is what makes this case study so interesting. Tax credits have potential to make a big impact, or the potential to waste a lot of money.
 
-**Challenges of Catalyzing Change Through Tax Credits**
+## Challenges of Catalyzing Change Through Tax Credits
 
 The biggest criticism against a lot of these programs is that you cannot determine which investors would have invested in the neighborhood without the tax credits, so even when we see a lot of private investment it is hard to tell how much was **caused by** the tax credit vs opportunistic developers using tax credits to make viable projects even more profitable. This is the primary selection problem that makes research challenging in this space.
 
@@ -51,6 +51,8 @@ FRONTLINE and NPR investigate the billions spent on affordable housing, and why 
 
 
 -------
+
+**Reflection:** 
 
 After reading a little about the programs, what are your views on the tax credit mechanisms?
 
