@@ -5,19 +5,9 @@ title: Models
 
 
 
-**Goals of Development Assistance**
 
-The federal programs under consideration are one of many programs that consist of "aid" or "assistance" dollars being sent to vulnerable communities to catalyze some sort of change. 
 
-One of my favorite data viz fails is this tone-def visualization of World Bank contracts presented by adapting what appears to be a World War III missile attack simulation. Development aid is launched from the donor country and explodes as it hits the recipient country:
-
-[http://d3.artzub.com/wbca/](http://d3.artzub.com/wbca/)
-
-The metaphor is perfect for todays discussion topic because the science of economic development is still in the leaches phase and many argue that some policies do more harm than good. 
-
-> It is important to identify clear goals or outcomes for these programs in order to build a theory of change around the intended impact and start to operationalize measures for outcomes. 
-
-**The Great Debate - People vs Places**
+## The Great Debate - People vs Places
 
 There is a long-standing debate in urban policy. Should we spend money helping people? Or should we spend money helping the places where disadvantaged people live? Neighborhood revitalization strategies target the latter. 
 
@@ -62,7 +52,19 @@ This is not the only example of intended effects of community improvement polici
 
 In this example the important thing to note is aid tied to families is bound by neighborhoods within cities. In effect, a poor household can only receive services if they move into central cities, whereas the same services are not offered in suburbs or wealthier neighborhoods. So it is a critique of economic apartheid more so than pro-poor policies. And even though services are provided to families they are still place-based policies and not people-based policies because they require the family to relocate to a poor neighborhood to access the services (e.g. public housing). A true people-based program would provide a voucher for the services in whichever community the household desired to live so they could follow opportunities instead of crowding into segregated and stressed census tracts (see [new findings from Moving to Opportunity](https://www.brookings.edu/blog/social-mobility-memos/2015/05/06/sociologys-revenge-moving-to-opportunity-mto-revisited/) project). 
 
-**Prediction vs Causality**
+## Program Dollars as the Treatment
+
+The federal programs under consideration are one of many programs that consist of "aid" or "assistance" dollars being sent to vulnerable communities to catalyze some sort of change. 
+
+One of my favorite data viz fails is this tone-def visualization of World Bank contracts presented by adapting what appears to be a World War III missile attack simulation. Development aid is launched from the donor country and explodes as it hits the recipient country:
+
+[http://d3.artzub.com/wbca/](http://d3.artzub.com/wbca/)
+
+The metaphor is apropros to this discussion because the science of economic development is still in the leaches phase of science and many argue that some policies do more harm than good. 
+
+> It is important to identify clear goals or outcomes for these programs in order to build a theory of change around the intended impact and start to operationalize measures for outcomes. 
+
+## Prediction vs Causality
 
 If you are not feeling well the doctor might take a blood sample to test for cancer. They are looking for elevated levels of white blood counts and various protein markers. If present the doctor can detect cancer early and have a better chance of treating it effectively. 
 
@@ -80,7 +82,7 @@ More importantly, try to think about the requirements necessary to make the clai
 
 If a community is on the up-swing it will attract tax credit dollars, but it will also attract a lot of other types of investment. We can only cleanly identify the impact of tax credits if we can control for all other types of investment. Therein lies the rub. 
 
-**Lack of Data**
+## Lack of Data
 
 These above issues are raised not to argue that place-based initiatives are not effective or pro-poor policies are not helpful. Rather, it is to highlight the challenges of place-based economic development policy:
 
@@ -114,11 +116,11 @@ Assuming data is no issue, what sorts of investments or programs would you want 
 
 ## Hedonic Pricing Methodology
 
-Introduction to models where the outcome is home value: hedonic pricing models. 
+Hedonic pricing models are statistical models where the outcome is home value.
 
-The main insight is that home price is a variable that aggregates a tremendous amount of information about characteristics of houses, neighborhoods, and cities. We can use regression to separate out these difference attributes at different levels, and see they each contributes to the market value of a home. 
+Home price aggregates a tremendous amount of information about characteristics of houses, neighborhoods, and cities. We can use regression to separate out these difference attributes at different levels, and see they each contributes to the market value of a home. 
 
-Since we are using the median home value variable which represents an entire census tract we focus on how neighborhood attributes and changes in attributes over time impact the average home price in the tract. 
+Since the median home value variable represents an entire census tract, these models focus on how neighborhood attributes and changes in amenities over time impact the average home price in the tract. 
 
 [Hedonic Pricing Models Overview](https://github.com/DS4PS/cpp-528-spr-2020/raw/master/articles/home-value-change/hedonic-pricing-method.pdf)
 
