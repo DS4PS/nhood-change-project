@@ -20,9 +20,7 @@ Low Income Housing Tax Credits (LIHTC) are one of the primary policy instruments
 
 New Market Tax Credits (NMTC) are mechanisms designed to catalyze economic development in distressed communities by attrating investments from private developers. 
 
-Watch case studies on the impact that New Market Tax Credits have achieved in three communities: 
-
-[NMTC Case Studies](https://www.cohnreznick.com/nmtc-map)
+Watch case studies on the impact that New Market Tax Credits have achieved in three communities: [NMTC Case Studies](https://www.cohnreznick.com/nmtc-map). 
 
 ## Are Tax Credits Effective Economic Development Mechanisms?
 
