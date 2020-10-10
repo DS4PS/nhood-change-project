@@ -57,6 +57,16 @@ There is an art to this process, but it is rarely objective of devoid of actors 
 
 These examples are also an opportunity to teach students about the dangers of [p-value hacking](https://www.nytimes.com/2017/10/18/magazine/when-the-revolution-came-for-amy-cuddy.html), proper tests for model robustness, and important open-science best practices to ensure the modeling process is transparent and reproducible. 
 
+This project attempts to model good open science principles by starting with raw data, providing code that demonstrates the construction of the research database, uses data-driven documents to present the code and analytical steps used to generate the models, and makes it all available through open source platforms and licensing. 
+
+Specifically: 
+
+* Data and code for this project are available on GitHub at [DS4PS/nhood-change-project](https://github.com/DS4PS/nhood-change-project) 
+* This website built using GitHub and Jekyll 
+* The analysis is done using the open source language R 
+* Data-driven documents are powered by R Markdown and Pandoc 
+* GIS tasks made possible by the [R spatial analysis community](https://cran.r-project.org/web/views/Spatial.html) 
+* The project uses open data available through the Census and the Federal DATA Act 
 
 <br>
 <hr>
