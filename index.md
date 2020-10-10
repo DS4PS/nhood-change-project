@@ -7,7 +7,10 @@ title: Overview
 
 This repository stores resources and project data for labs examining data-driven approaches to urban policy. 
 
-Specifically this project examines the effectiveness of two larger federal block-grant programs - **New Market Tax Credits (NMTC)** and **Low Income Housing Tax Credits (LIHTC)** - that target low-income neighborhoods. 
+Specifically this project examines the effectiveness of two larger federal block-grant programs that target low-income neighborhoods.  
+
+* **New Market Tax Credits (NMTC)**  
+* **Low Income Housing Tax Credits (LIHTC)** 
 
 The project uses Census data to model community change between the periods 2000 and 2010 (the data goes back as far as 1970). 
 
@@ -19,7 +22,7 @@ The project was designed to give students a big enough task that it was a realis
 
 ## Causal Analysis With Non-Experimental Data (Counterfactual Reasoning)
 
-The NMTC and LIHTC programs are also market-based developer-driven, which means there are likely selection issues (community development banks give out loans that need to be repaid, so they will target census tracts with high potential for success).  These pose interesting estimation challenges that can be interesting to students studying program evaluation and applied econometrics. 
+The NMTC and LIHTC programs are also market-based developer-driven, which means there are likely selection issues (community development banks give out loans that need to be repaid, so they will target census tracts with high potential for success). These pose interesting estimation challenges that can be interesting to students studying program evaluation and applied econometrics. 
 
 Program participation is determined through some means-testing, which provides opportunities to leverage eligibility-criteria cut-off points to create interesting quasi-experimental counterfactuals in order to overcome selection problems that will most certainly bias estimates of program impact. 
 
@@ -40,6 +43,7 @@ Linear tasks are faily easy to teach. You start at the beginning and complete ea
 Non-linear tasks that involve ambiguity are hard to teach, because they involve critical thinking, iterative exploration, and judgement. 
 
 ![](assets/images/process-of-data-analysis.png)
+*Diagram from the Modern Dive textbook (Ismay & Kim, 2019)*
 
 Data analysis falls into this category of tasks. Real world projects require exploratory analysis, iterative design of variables and models, and some ambiguity related to the best approach for any given problem. 
 
