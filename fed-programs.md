@@ -1,6 +1,6 @@
 ---
-layout: home
-title: Overview
+layout: page
+title: Federal Programs
 ---
 
 # A Data-Driven Project Examining Neighborhood Change 
