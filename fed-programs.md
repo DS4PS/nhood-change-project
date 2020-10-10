@@ -4,12 +4,11 @@ title: The Intervention
 ---
 
   
-
-## Federal Neighborhood Revitalization Programs   
-
 We are interested in understanding the impact of programs that target distressed communities in order to catalyze economic development and community change. 
 
 This project leverages open data from two large federal programs as the "treatment" in the study: 
+
+## Federal Neighborhood Revitalization Programs   
 
 **Low Income Housing Tax Credits**
 
