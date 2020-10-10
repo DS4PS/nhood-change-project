@@ -16,9 +16,9 @@ minimal_theme: false         # radically minimalistic theme
 
 navigation:                  # show navigation links in the header	
   - index.md
+  - fed-programs.md
   - data.md  
   - models.md
-  # - lit-review.md
   # - resources.md
   # - about.md
 
