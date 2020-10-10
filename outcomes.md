@@ -64,7 +64,9 @@ Excerpt from NPR: “A Look At The Wealth And Income Gap, By ZIP Code”:
 
 **Ellen, I. G., & Turner, M. A. (1997). Does neighborhood matter? Assessing recent evidence. Housing Policy Debate, 8(4), 833-866.** [[PDF](https://github.com/DS4PS/cpp-529-master/blob/master/articles/social-mobility/does-neighborhood-matter-assessing-recent-evidence.pdf)]
 
+This article synthesizes findings from a wide range of empirical research into how neighborhoods affect families and children. It lays out a conceptual framework for understanding how neighborhoods may affect people at different life stages. It then identifies methodological challenges, summarizes past research findings, and suggests priorities for future work.
 
+Despite a growing body of evidence that neighborhood conditions play a role in shaping individual outcomes, serious methodological challenges remain that suggest some caution in interpreting this evidence. Moreover, no consensus emerges about which neighborhood characteristics affect which outcomes, or about what types of families may be most influenced by neighborhood conditions. Finally, existing studies provide little empirical evidence about the causal mechanisms through which neighborhood environment influences individual outcomes. To be useful to policy makers, future empirical research should tackle the critical question of how and for whom neighborhood matters.
 
 
 
