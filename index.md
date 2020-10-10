@@ -58,6 +58,10 @@ There is an art to this process, but it is rarely objective of devoid of actors 
 These examples are also an opportunity to teach students about the dangers of [p-value hacking](https://www.nytimes.com/2017/10/18/magazine/when-the-revolution-came-for-amy-cuddy.html), proper tests for model robustness, and important open-science best practices to ensure the modeling process is transparent and reproducible. 
 
 
+<br>
+<hr>
+<br>
+
 ## References
 
 Ismay, C., & Kim, A. Y. (2019). Statistical Inference via Data Science: A ModernDive into R and the Tidyverse. CRC Press.
@@ -70,7 +74,9 @@ West, S. G., Biesanz, J. C., & Pitts, S. C. (2000). Causal inference and general
 
 Ferraro, P. J., & Miranda, J. J. (2017). Panel data designs and estimators as substitutes for randomized controlled trials in the evaluation of public programs. Journal of the Association of Environmental and Resource Economists, 4(1), 281-317.
 
-
+<br>
+<hr>
+<br>
 
 
 <br>
