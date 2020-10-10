@@ -62,27 +62,27 @@ This project attempts to model good open science principles by starting with raw
 Specifically: 
 
 * Data and code for this project are available on GitHub at [DS4PS/nhood-change-project](https://github.com/DS4PS/nhood-change-project) 
-* This website built using GitHub and Jekyll 
-* The analysis is done using the open source language R 
+* This website was built using free GitHub Pages (powered by Jekyll)  
+* The analysis is done using the open source data programming language R  
 * Data-driven documents are powered by R Markdown and Pandoc 
-* GIS tasks made possible by the [R spatial analysis community](https://cran.r-project.org/web/views/Spatial.html) 
+* GIS tools were made possible by the [R spatial analysis community](https://cran.r-project.org/web/views/Spatial.html) and [R Open Science](https://ropensci.org/) 
 * The project uses open data available through the Census and the Federal DATA Act 
 
 <br>
 <hr>
 <br>
 
-## References
+**References**
 
-Ismay, C., & Kim, A. Y. (2019). Statistical Inference via Data Science: A ModernDive into R and the Tidyverse. CRC Press.
+*Ismay, C., & Kim, A. Y. (2019). Statistical Inference via Data Science: A ModernDive into R and the Tidyverse. CRC Press.
 
-St. Clair, T., Cook, T. D., & Hallberg, K. (2014). Examining the internal validity and statistical precision of the comparative interrupted time series design by comparison with a randomized experiment. American Journal of Evaluation, 35(3), 311-327.
+*St. Clair, T., Cook, T. D., & Hallberg, K. (2014). Examining the internal validity and statistical precision of the comparative interrupted time series design by comparison with a randomized experiment. American Journal of Evaluation, 35(3), 311-327.
 
-Aiken, L. S., West, S. G., Schwalm, D. E., Carroll, J. L., & Hsiung, S. (1998). Comparison of a randomized and two quasi-experimental designs in a single outcome evaluation: Efficacy of a university-level remedial writing program. Evaluation Review, 22(2), 207-244.
+*Aiken, L. S., West, S. G., Schwalm, D. E., Carroll, J. L., & Hsiung, S. (1998). Comparison of a randomized and two quasi-experimental designs in a single outcome evaluation: Efficacy of a university-level remedial writing program. Evaluation Review, 22(2), 207-244.
 
-West, S. G., Biesanz, J. C., & Pitts, S. C. (2000). Causal inference and generalization in field settings: Experimental and quasi-experimental designs.
+*West, S. G., Biesanz, J. C., & Pitts, S. C. (2000). Causal inference and generalization in field settings: Experimental and quasi-experimental designs.
 
-Ferraro, P. J., & Miranda, J. J. (2017). Panel data designs and estimators as substitutes for randomized controlled trials in the evaluation of public programs. Journal of the Association of Environmental and Resource Economists, 4(1), 281-317.
+*Ferraro, P. J., & Miranda, J. J. (2017). Panel data designs and estimators as substitutes for randomized controlled trials in the evaluation of public programs. Journal of the Association of Environmental and Resource Economists, 4(1), 281-317.
 
 <br>
 <hr>
