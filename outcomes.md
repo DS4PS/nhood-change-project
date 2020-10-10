@@ -1,7 +1,6 @@
-
 ---
 layout: page
-title: Outcomes
+title: Outcomes 
 ---
 
 ## The Measurement Problem 
