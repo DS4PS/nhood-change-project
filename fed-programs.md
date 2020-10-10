@@ -37,11 +37,11 @@ One convincing argument is that if cities tried to directly invest in distressed
 
 The mystery is what makes this case study so interesting. Tax credits have potential to make a big impact, or the potential to waste a lot of money.
 
-For your topic this week, reflect on the idea of using tax credits as a mechanisms to catalyze development. How might these policy tools go wrong? The biggest criticism against a lot of these programs is that you cannot determine which investors would have invested in the neighborhood without the tax credits, so even when we see a lot of private investment it is hard to tell how much was caused by the tax credit. This is the primary selection problem that makes research challenging in this space.
-
-But it’s not the only issue. Consider the Frontline news story on some recent fraud tha was uncovered. It’s not surprising that when there are billions of dollars at stake the program invites corruption.
-
 **Challenges of Catalyzing Change Through Tax Credits**
+
+The biggest criticism against a lot of these programs is that you cannot determine which investors would have invested in the neighborhood without the tax credits, so even when we see a lot of private investment it is hard to tell how much was **caused by** the tax credit vs opportunistic developers using tax credits to make viable projects even more profitable. This is the primary selection problem that makes research challenging in this space.
+
+But it’s not the only issue. Consider the Frontline news story on some recent fraud that was uncovered. It’s not surprising that when there are billions of dollars at stake the program invites corruption.
 
 FRONTLINE and NPR investigate the billions spent on affordable housing, and why so few get the help they need.
 
@@ -52,11 +52,9 @@ FRONTLINE and NPR investigate the billions spent on affordable housing, and why 
 
 -------
 
-After reading a little about the programs, what are your views on the mechanisms?
+After reading a little about the programs, what are your views on the tax credit mechanisms?
 
-What is your instinctive response after learning some of the details of how they operate?
-
-Before we explore the data, what is your apriori hypothesis? Do you think they will work as designed?
+Before we explore the data, what is your apriori hypothesis? Do you think we will find evidence that they worked as designed?
 
 ---------
 
