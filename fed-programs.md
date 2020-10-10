@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Neighborhood Revitalization Programs
+title: The Intervention
 ---
 
   
 
-## The Intervention  
+## Federal Neighborhood Revitalization Programs   
 
 We are interested in understanding the impact of programs that target distressed communities in order to catalyze economic development and community change. 
 
