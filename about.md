@@ -19,7 +19,9 @@ The project was created by Jesse Lecy.
 -------
 
 
-> DS4PS:  better data + better methods = better research 
+# DS4PS 
+
+> better data + better methods = better research 
 
 
 
