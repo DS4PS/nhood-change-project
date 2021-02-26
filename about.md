@@ -19,7 +19,9 @@ The project was created by Jesse Lecy.
 -------
 
 
-# DS4PS 
+# Data Science for Public Service (DS4PS) 
+
+Making resources available for data science education in public affairs. 
 
 > better data + better methods = better research 
 
