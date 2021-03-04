@@ -3,70 +3,82 @@ layout: home
 title: Overview
 ---
 
+
+
+
+
+
 # A Data-Driven Approach to Neighborhood Change 
 
-This repository stores resources and project data for labs examining data-driven approaches to urban policy. 
+This repository stores resources and project data for labs examining data-driven approaches to urban policy and exercises for regression analysis in the public policy context. 
 
-Specifically this project examines the effectiveness of two larger federal block-grant programs that target low-income neighborhoods.  
+<br>
+<hr>
+<br>
 
-* **New Market Tax Credits (NMTC)**  
-* **Low Income Housing Tax Credits (LIHTC)** 
+**Neighborhoods Matter**
 
-The project uses Census data to model community change between the periods 2000 and 2010 (the data goes back as far as 1970). 
+*Hundreds of studies have demonstrated that the odds of economic success vary across neighborhoods. The far more difficult question is whether that’s because neighborhoods nurture success (or failure), or whether they just attract those who would succeed (or fail) anyway.*
 
-![](assets/images/nhood-change-graph.png)
+Urban policy scholars have long made the case for the primacy of place:
 
-Tax credit dollars are then aggregated by Census Tracts and form the "treatment" in the study. 
+*Ellen, I. G., & Turner, M. A. (1997). Does neighborhood matter? Assessing recent evidence. Housing Policy Debate, 8(4), 833-866.* [ [pdf](https://github.com/DS4PS/cpp-529-master/raw/master/articles/social-mobility/does-neighborhood-matter-assessing-recent-evidence.pdf) ]
 
-The project was designed to give students a big enough task that it was a realistic project, but provide enough resources for it to be manageable. 
+Economists have more recently come to the conclusion that neighborhoods matter more than they expected. For example, see
 
-## Causal Analysis With Non-Experimental Data (Counterfactual Reasoning)
+*Justin Wolfers: Why the New Research on Mobility Matters: An Economist's View; The New York Times, May 4, 2015.* [ [link](https://www.nytimes.com/2015/05/05/upshot/why-the-new-research-on-mobility-matters-an-economists-view.html) ] [ [pdf](https://github.com/DS4PS/cpp-529-master/raw/master/articles/social-mobility/why-the-new-research-on-mobility-matters-an-economists-view.pdf) ]
 
-The NMTC and LIHTC programs are also market-based developer-driven, which means there are likely selection issues (community development banks give out loans that need to be repaid, so they will target census tracts with high potential for success). These pose interesting estimation challenges that can be interesting to students studying program evaluation and applied econometrics. 
+*Raj Chetty: The Economist Who Would Fix the American Dream; The Altantic, August 2019.* [ [link](https://www.theatlantic.com/magazine/archive/2019/08/raj-chettys-american-dream/592804/) ] [ [pdf]() ] 
 
-Program participation is determined through some means-testing, which provides opportunities to leverage eligibility-criteria cut-off points to create interesting quasi-experimental counterfactuals in order to overcome selection problems that will most certainly bias estimates of program impact. 
+There is growing evidence that neighborhoods can be viewed as an important *TREATMENT* that aids in social mobility, i.e. holding the household and socio-economic status constant, the same child will achieve very different lifetime earnings if you change the neighborhood in which they grow up. This is the basic premise of place-based policies - if you improve the neighborhood you improve outcomes for families that live in the neighborhoods. 
 
-This allows for comparisons of estimation approaches using: 
+Similarly, programs which help low-income families move to stable and thriving neighborhoods have significant long-term impact on the mobility of the kids. See the Moving to Opportunity Study { [Part 1](https://opportunityinsights.org/paper/newmto/) } and { [Part 2](https://www.citylab.com/equity/2019/08/affordable-housing-assistance-voucher-seattle-neighborhoods/595423/) }.
 
-* Regular OLS model 
-* Metro-level fixed effects 
-* Difference-in-difference models 
-* Matched census tracts 
-* Regression discontinuity design 
+<br>
+<hr>
+<br>
 
-And finally, the data is complex enough that specification considerations will have a big impact on inferences. The comparison of program impact estimates under different specifications can illustrate the importance of variable construction (do you present home values in dollar amounts, or relative rank within metros?), measurement (how can we operationalize the construct of gentrification?), skew (which-variables are improved through log-transformations?), and outliers. 
+**The Quality of Neighborhoods Varies Significantly**
 
-## The Art of Data Analysis
+*The report shows how America’s yawning inequality extends beyond just money to wide discrepancies in health, knowledge and education, too. As Stanford economist Rebecca Diamond has suggested, inequality of well-being compounds earnings inequality. Her research finds that more well-off and high-skilled Americans accrue additional benefits from living in neighborhoods with better schools, less crime and enhanced public services. Meanwhile, the less skilled and moneyed Americans are shunted off to communities with low quality schools and services. America’s economic divide registers not just in what we can afford to buy, but in the education we have the opportunity to attain and, most basically, in how much time we have to live.*
 
-Linear tasks are faily easy to teach. You start at the beginning and complete each step until you are done. 
+The Geography of Well-Being, CITYLAB, Richard Florida, APR 23, 2015 [ [link](https://www.citylab.com/life/2015/04/the-geography-of-well-being/391188/) ] 
 
-Non-linear tasks that involve ambiguity are hard to teach, because they involve critical thinking, iterative exploration, and judgement. 
+![](https://opportunityinsights.org/wp-content/uploads/2018/10/updated-compton-map.png)
 
-![](assets/images/process-of-data-analysis.png)
-*Diagram from the Modern Dive textbook (Ismay & Kim, 2019)*
+*Incarceration Rates for Black Men Raised in the Lowest-Income Families in Los Angeles, by Neighborhood in which they Grew Up [cite](https://www.theatlantic.com/magazine/archive/2019/08/raj-chettys-american-dream/592804/)*
 
-Data analysis falls into this category of tasks. Real world projects require exploratory analysis, iterative design of variables and models, and some ambiguity related to the best approach for any given problem. 
+<br>
+<hr>
+<br>
 
-## Open Science Approaches
+**Theories of Neighborhood Change**
 
-Analysts often explore the modeling space by iteratively trying lots of different specifications until they have stable models and generate reasonable results. 
+Neighborhoods don't start out bad. They typically begin as vibrant middle-class developments that pass through various life-cycles over time. Why do some neighborhoods remain stable and thriving, and others experience drastic decline and stagnation? Theories of neighborhod change help answer that question. 
 
-![](assets/images/p-value-hacking.png)
+*Pitkin, B. (2001). Theories of neighborhood change: Implications for community development policy and practice. UCLA Advanced Policy Institute, 28.* [ [pdf](https://github.com/DS4PS/cpp-529-master/raw/master/articles/neighborhood-change-theories/theories-of-neighborhood-change.pdf) ]
 
-There is an art to this process, but it is rarely objective of devoid of actors that are incentivized gravitate toward models that support certain conclusions.
+<br>
+<hr>
+<br>
 
-These examples are also an opportunity to teach students about the dangers of [p-value hacking](https://www.nytimes.com/2017/10/18/magazine/when-the-revolution-came-for-amy-cuddy.html), proper tests for model robustness, and important open-science best practices to ensure the modeling process is transparent and reproducible. 
+**Data-Driven Approaches to Studying Neighborhoods**
 
-This project attempts to model good open science principles by starting with raw data, providing code that demonstrates the construction of the research database, uses data-driven documents to present the code and analytical steps used to generate the models, and makes it all available through open source platforms and licensing. 
+Data can help us better understand the impact that neighborhoods have on residents. This class will help you develop a framework around community analytics - using data science tools to identify and describe neighborhoods in cities, and predict how they might change over time. 
 
-Specifically: 
+We will specifically draw upon approaches described in:
 
-* Data and code for this project are available on GitHub at [DS4PS/nhood-change-project](https://github.com/DS4PS/nhood-change-project) 
-* This website was built using free GitHub Pages (powered by Jekyll)  
-* The analysis is done using the open source data programming language R  
-* Data-driven documents are powered by R Markdown and Pandoc 
-* GIS tools were made possible by the [R spatial analysis community](https://cran.r-project.org/web/views/Spatial.html) and [R Open Science](https://ropensci.org/) 
-* The project uses open data available through the Census and the Federal DATA Act 
+*Firschein, J. (2015). Putting data to work: data-driven approaches to strengthening neighborhoods. IFC Bulletins chapters, 38.* _**Market Value Analysis: A Data-Based Approach to Understanding Urban Housing Markets, pp 41-60.**_ [ [pdf](https://github.com/DS4PS/cpp-529-master/raw/master/articles/data-driven-models/MVA-DD-App-to-Strengthening-Neighborhoods.pdf) ]
+
+Some data-driven models that help [predict which neighborhoods are most likely to change over time](http://urbanspatialanalysis.com/portfolio/predicting-gentrification-using-longitudinal-census-data/). 
+
+And recent academic work that uses census data and machine learning to identify patterns in community development: 
+
+*Delmelle, E. C. (2017). Differentiating pathways of neighborhood change in 50 US metropolitan areas. Environment and planning A, 49(10), 2402-2424.* [ [pdf](https://github.com/DS4PS/cpp-529-master/raw/master/articles/data-driven-models/differentiating_pathways_to_neighborhood_change.pdf) ]
+
+All three articles share a common approach of using census data and clustering techniques to classify neighborhoods by type, then examine how each type is likely to change over time. 
+
+![](assets/img/strong-transitional-distressed-hoods.png) 
 
 <br>
 <hr>
