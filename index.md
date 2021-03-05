@@ -8,7 +8,7 @@ title: Overview
 
 
 
-# A Data-Driven Approach to Neighborhood Change 
+# A Data-Driven Approaches to Neighborhood Change 
 
 This repository stores resources and project data for labs examining data-driven approaches to urban policy and exercises for regression analysis in the public policy context. 
 
