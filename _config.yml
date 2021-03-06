@@ -21,6 +21,7 @@ navigation:                  # show navigation links in the header
   - lit-review.md 
   - data.md  
   - models.md
+  - skills.md
   - about.md
 
 
