@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Overview
+title: Skills Covered in Labs
 ---
 
 
